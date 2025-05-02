@@ -114,46 +114,46 @@ DEFAULT_CONFIG = {
         "prompt_suggestions": [
             {
                 "title": [
-                    "Help me study",
-                    "vocabulary for a college entrance exam",
+                    "What is Artificial Intelligence?",
+                    "Explain AI and in particular Generative AI like what you are?",
                 ],
-                "content": "Help me study vocabulary: write a sentence for me to fill in the blank, and I'll try to pick the correct option.",
+                "content": "Describe AI and its types such as machine learning and Generative AI.  Focus on you as the Large Learning Model and a Generative AI.",
             },
             {
                 "title": [
-                    "Give me ideas",
-                    "for what to do with my kids' art",
+                    "What can you do?",
+                    "As a Generative AI, what can you help me with?",
                 ],
-                "content": "What are 5 creative things I could do with my kids' art? I don't want to throw them away, but it's also so much clutter.",
+                "content": "You are a Generative AI that focuses on text.  How can you save me time?",
             },
             {
-                "title": ["Tell me a fun fact", "about the Roman Empire"],
-                "content": "Tell me a random fun fact about the Roman Empire",
+                "title": ["Tell me about my privacy."],
+                "content": "I understand you are an offline AI and what I do is private",
             },
             {
                 "title": [
-                    "Show me a code snippet",
-                    "of a website's sticky header",
+                    "I want to have my own local RAG.",
+                    "Tell me about RAG and why it's helpful",
                 ],
-                "content": "Show me a code snippet of a website's sticky header in CSS and JavaScript.",
+                "content": "What is RAG and if you as my LLM are offline and local, is it true my data is private.",
             },
             {
                 "title": [
-                    "Explain options trading",
-                    "if I'm familiar with buying and selling stocks",
+                    "What is the future of AI",
+                    "In 5 years, where will AI be?",
                 ],
-                "content": "Explain options trading in simple terms if I'm familiar with buying and selling stocks.",
+                "content": "Tell me about the future of AI in 5 years and what is possible.",
             },
             {
-                "title": ["Overcome procrastination", "give me tips"],
-                "content": "Could you start by asking me about instances when I procrastinate the most and then give me some suggestions to overcome it?",
+                "title": ["Why is a private personal AI best?"],
+                "content": "You are an offline AI.  Why is that better than using online LLMs?",
             },
             {
                 "title": [
-                    "Grammar check",
-                    "rewrite it for better readability ",
+                    "You cost nothing to run.",
+                    "You are much cheaper and I own you with no ongoing monthly costs",
                 ],
-                "content": 'Check the following sentence for grammar and clarity: "[sentence]". Rewrite it for better readability while maintaining its original meaning.',
+                "content": 'If you have a small one time cost, this makes you make much cheaper than any other option. Are you a good AI even if very cheap?',
             },
         ],
     },
