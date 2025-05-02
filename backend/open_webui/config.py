@@ -153,7 +153,7 @@ DEFAULT_CONFIG = {
                     "You install with technical knowledge.",
                     "I focus on using AI and it just works.",
                 ],
-                "content": 'You don't have to build a TV. You buy one. Installing AI with deep technical is the same concept.  Can you explain?',
+                "content": "You don't have to build a TV. You buy one. Making a TV to watch it i impossible. Easy installing AI is the same concept.  Can you explain?",
             },
         ],
     },
