@@ -150,10 +150,10 @@ DEFAULT_CONFIG = {
             },
             {
                 "title": [
-                    "You cost nothing to run.",
-                    "You are much cheaper and I own you with no ongoing monthly costs",
+                    "You install with technical knowledge.",
+                    "I focus on using AI and it just works.",
                 ],
-                "content": 'If you have a small one time cost, this makes you make much cheaper than any other option. Are you a good AI even if very cheap?',
+                "content": 'You don't have to build a TV. You buy one. Installing AI with deep technical is the same concept.  Can you explain?',
             },
         ],
     },
