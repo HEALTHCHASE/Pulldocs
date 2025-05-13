@@ -18,7 +18,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 -    We help you become expert in AI with monthly AI updates of new tools and developments
 -    We offer free and also certified training in AI
 -    We offer add-ons to make your AI even more powerful such as AI music and image generation, as well as a growing list of features
--    major online AI's cannot offer.
+     major online AI's cannot offer.
 
 ### Fixed
 
