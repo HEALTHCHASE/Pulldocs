@@ -5,15 +5,20 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [0.6.5] - 2025-04-14
+##  
 
-### Added
+### SamurAI
 
-- 🛂 **Granular Voice Feature Permissions Per User Group**: Admins can now separately manage access to Speech-to-Text (record voice), Text-to-Speech (read aloud), and Tool Calls for each user group—giving teams tighter control over voice features and enhanced governance across roles.
-- 🗣️ **Toggle Voice Activity Detection (VAD) for Whisper STT**: New environment variable lets you enable/disable VAD filtering with built-in Whisper speech-to-text, giving you flexibility to optimize for different audio quality and response accuracy levels.
-- 📋 **Copy Formatted Response Mode**: You can now enable “Copy Formatted” in Settings > Interface to copy AI responses exactly as styled (with rich formatting, links, and structure preserved), making it faster and cleaner to paste into documents, emails, or reports.
-- ⚙️ **Backend Stability and Performance Enhancements**: General backend refactoring improves system resilience, consistency, and overall reliability—offering smoother performance across workflows whether chatting, generating media, or using external tools.
-- 🌎 **Translation Refinements Across Multiple Languages**: Updated translations deliver smoother language localization, clearer labels, and improved international usability throughout the UI—ensuring a better experience for non-English speakers.
+-  📋**Welcome to SamurAI**: SamurAI is your personal and private AI 
+-  **Private**: SamurAI does not rewquire internet connnection to run, and even if online all activity is local.  Your work is private
+-  **Quality**: SamurAI is based on licensed backend and frontend software that is well known and best in class
+-  **Simple to install**: Now anyone can have their own AI.  Two mouse clicks installs SamurAI and no technical knowledge is required
+-  **Inexpensive**: With the same functionality of online major AI brands, SamurAI is a small one-time fee with no monthly costs forever
+-  **More features**: With SamurAI you also get more than an online major AI such as:
+-    We help you become expert in AI with monthly AI updates of new tools and developments
+-    We offer free and also certified training in AI
+-    We offer add-ons to make your AI even more powerful such as AI music and image generation, as well as a growing list of features
+-    major online AI's cannot offer.
 
 ### Fixed
 
