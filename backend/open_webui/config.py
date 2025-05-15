@@ -1531,7 +1531,7 @@ Responses from models: {{responses}}"""
 ENABLE_CODE_EXECUTION = PersistentConfig(
     "ENABLE_CODE_EXECUTION",
     "code_execution.enable",
-    os.environ.get("ENABLE_CODE_EXECUTION", "True").lower() == "true",
+    os.environ.get("ENABLE_CODE_EXECUTION", "False").lower() == "true",
 )
 
 CODE_EXECUTION_ENGINE = PersistentConfig(
@@ -2021,7 +2021,7 @@ YOUTUBE_LOADER_PROXY_URL = PersistentConfig(
 ENABLE_WEB_SEARCH = PersistentConfig(
     "ENABLE_WEB_SEARCH",
     "rag.web.search.enable",
-    os.getenv("ENABLE_WEB_SEARCH", "True").lower() == "true",
+    os.getenv("ENABLE_WEB_SEARCH", "True").lower() == "false",
 )
 
 WEB_SEARCH_ENGINE = PersistentConfig(
