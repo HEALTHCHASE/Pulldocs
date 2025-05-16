@@ -1574,7 +1574,7 @@ CODE_EXECUTION_JUPYTER_TIMEOUT = PersistentConfig(
 ENABLE_CODE_INTERPRETER = PersistentConfig(
     "ENABLE_CODE_INTERPRETER",
     "code_interpreter.enable",
-    os.environ.get("ENABLE_CODE_INTERPRETER", "True").lower() == "true",
+    os.environ.get("ENABLE_CODE_INTERPRETER", "False").lower() == "true",
 )
 
 CODE_INTERPRETER_ENGINE = PersistentConfig(
